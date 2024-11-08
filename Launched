@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon site à moi</title>
+    <style>
+        /* Style de la page */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #333; /* Couleur de fond (gris foncé) */
+        }
+        /* Style du texte */
+        h1 {
+            font-size: 5rem;
+            color: yellow;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mon site à moi</h1>
+</body>
+</html>
